@@ -1,5 +1,5 @@
 # Command Line Weather App
-Displays the current conditions and temperature for New York, New York(Central Park). Uses [node.js](https://nodejs.org/en/docs/) to pull data from the [forecast.io](https://developer.forecast.io/) weather API.
+Uses [node.js](https://nodejs.org/en/docs/) to pull data from the [forecast.io](https://developer.forecast.io/) weather API to display the current conditions and temperature for Central Park in New York.
 
 Run from terminal: `node app.js`  
 
