@@ -10,14 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/perrywortman/weather-report.git"
   },
-  "author": "",
+  "author": "W. Perry Wortman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/perrywortman/weather-report/issues"
   },
   "homepage": "https://github.com/perrywortman/weather-report#readme",
   "dependencies": {
-    "bluebird": "^3.3.4",
     "geocoder": "^0.2.2"
   }
 }
