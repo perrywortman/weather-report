@@ -1,0 +1,23 @@
+{
+  "name": "weather-report",
+  "version": "1.0.0",
+  "description": "Uses [node.js](https://nodejs.org/en/docs/) to pull data from the [forecast.io](https://developer.forecast.io/) weather API to display the current conditions and temperature for Central Park in New York.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perrywortman/weather-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perrywortman/weather-report/issues"
+  },
+  "homepage": "https://github.com/perrywortman/weather-report#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "geocoder": "^0.2.2"
+  }
+}
