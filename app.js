@@ -2,7 +2,7 @@ var https = require('https')
 var geocoder = require('geocoder')
 var secretKey = require('./myKey')
 
-var url = 'https://api.forecast.io/forecast/'
+var url = 'https://api.darksky.net/forecast/'
 var apiKey = secretKey + '/'
 
 var location = process.argv[2]
